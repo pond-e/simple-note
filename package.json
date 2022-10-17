@@ -1,22 +1,19 @@
 {
-  "name": "starter-express-api",
+  "name": "simple-note",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyclic-software/starter-express-api.git"
+    "url": "git+https://github.com/pond-e/simple-note.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cyclic-software/starter-express-api/issues"
+    "url": "https://github.com/pond-e/simple-note/issues"
   },
-  "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/pond-e/simple-note#readme"
 }
