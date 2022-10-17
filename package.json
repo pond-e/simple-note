@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "node server.js",
     "sirv:start": "sirv public --no-clear"
